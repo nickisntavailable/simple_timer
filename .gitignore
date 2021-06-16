@@ -1,0 +1,7 @@
+node_modules
+.vscode
+test
+.eslintrc.json
+CHANGELOG.module
+kds-timer-0.0.1.vslx
+vsc-extension-quickstart.md
